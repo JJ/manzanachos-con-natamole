@@ -105,3 +105,10 @@ bolsa de nachos, vas a necesitar un par de días para hacerlos
 todos. No pasa nada, se conservan bien, siempre que estén en un táper
 abierto y en un lugar fresco y seco.
 
+## Natamole
+
+Esencialmente, el natamole es un guacamole dulce. La base va a ser la
+misma que la del guacamole: aguacate maduro, cilantro y lima o
+limón. De hecho, puedes preparar esta base y apartar una parte para
+añadirle los condimentos para el guacamole normal y otra para el
+natamole.
