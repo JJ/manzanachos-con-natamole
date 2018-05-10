@@ -112,3 +112,48 @@ misma que la del guacamole: aguacate maduro, cilantro y lima o
 limón. De hecho, puedes preparar esta base y apartar una parte para
 añadirle los condimentos para el guacamole normal y otra para el
 natamole.
+
+### Ingredientes
+
+* Un aguacate no muy grande, maduro.
+* Miel, dos cucharadas
+* Una lima
+* Cilantro, un puñadito.
+* Una pizca de sal.
+* Una pizca de vainilla azucarada.
+* Un yogur griego
+
+### Preparación
+
+1. Se echa todo en un vaso y se muele con la turmix.
+
+Esto ha sido fácil, ¿no?
+
+Pero era la beta. Así que vayamos al release candidate.
+
+1. Se ralla la piel de la lima completa. Cuanto más verde sea, mejor.
+2. Se exprime el zumo de media lima en el vaso de la minipimer.
+3. Se echa el resto: cilantro, yogur, aguacate pelado y partido por la
+   mitad o en más trozos, un poquito (muy poquito) de sal y la
+   miel. La miel no se debe echar ni al principio (se quedará pegada
+   al vaso) ni al final (se quedará pegada a la turmix). Se echa al
+   final el poquito que haya de vainilla y lo que se haya rallado de
+   la piel de la lima.
+4. Se bate bien hasta que quede uniforme.
+
+Se puede adornar con trocitos de fresa o frambuesa (imitando el tomate
+del guacamole original). Si quieres guardarlo, aunque el zumo de la
+lima debería evitar que se pusiera negro, puedes añadirle el hueso del
+aguacate. Se puede servir fresco o tal cual.
+
+## Sugerencia de presentación
+
+Igual que los nachos con guacamole. Pero no le eches queso a los chips
+de manzana. Bueno, échaselo, qué diablos. Haz lo que te dé la gana,
+para eso lo has hecho tú.
+
+O sea: se vierte el natamole en un cuenco para dipear, y se pone en
+medio de un plato rodeado de los chips de manzana. O se pone en un
+cuenco un poco más grande los chips de manzana, y se le echa el
+natamole encima. A gusto de cada cual.
+
