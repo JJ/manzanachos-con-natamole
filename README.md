@@ -12,7 +12,8 @@ Creative Commons Reconocimiento-CompartirIgual 3.0 España</a>.
 
 Receta de un postre a base de manzana y aguacate. Creado para
 participar en el concurso de postres del día de
-la [ETSIIT](https://etsiit.ugr.es).
+la [ETSIIT](https://etsiit.ugr.es). Esta receta está también
+disponible en el URL corto [`git.io/m-c-n`](https://git.io/m-c-n).
 
 Mi idea original era crear un postre que fuera una versión de algo que
 no lo fuera. Tras darle vueltas a otras cosas como una versión de un
