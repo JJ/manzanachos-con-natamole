@@ -8,6 +8,7 @@ src="https://i.creativecommons.org/l/by-sa/3.0/es/88x31.png" /></a><br
 href="http://creativecommons.org/licenses/by-sa/3.0/es/">licencia de
 Creative Commons Reconocimiento-CompartirIgual 3.0 España</a>.
 
+[![Build Status](https://travis-ci.org/JJ/manzanachos-con-natamole.svg?branch=master)](https://travis-ci.org/JJ/manzanachos-con-natamole)
 
 Receta de un postre a base de manzana y aguacate. Creado para
 participar en el concurso de postres del día de
