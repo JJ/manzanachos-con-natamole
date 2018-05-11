@@ -15,6 +15,9 @@ participar en el concurso de postres del día de
 la [ETSIIT](https://etsiit.ugr.es). Esta receta está también
 disponible en el URL corto [`git.io/m-c-n`](https://git.io/m-c-n).
 
+<blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">¡Riquísimo! 😋😋 <a href="https://t.co/s347tVdQU9">pic.twitter.com/s347tVdQU9</a></p>&mdash; Delegación ETSIIT (@delegaETSIIT) <a href="https://twitter.com/delegaETSIIT/status/994617448677695494?ref_src=twsrc%5Etfw">10 de mayo de 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Mi idea original era crear un postre que fuera una versión de algo que
 no lo fuera. Tras darle vueltas a otras cosas como una versión de un
 huevo frito con patatas a base de merengue y mango, acabé con esta
@@ -25,6 +28,15 @@ aguacate, que puede (o no) usar nata (de ahí lo de *natamole*, idea de
 la misma Elena).
 
 Vamos a ver como se elabora cada uno de ellos por partes.
+
+<a data-flickr-embed="true"
+href="https://www.flickr.com/photos/atalaya/28142331398/in/dateposted/"
+title="Elementos básicos de los manzanachos."><img
+src="https://farm1.staticflickr.com/945/28142331398_a1d76f7cd2.jpg"
+width="500" height="375" alt="Elementos básicos de los
+manzanachos."></a><script async
+src="//embedr.flickr.com/assets/client-code.js"
+charset="utf-8"></script>
 
 ## Manzanachos
 
@@ -40,6 +52,15 @@ le añadí unos pequeños cambios.
 * Una cucharadita pequeña de canela.
 
 ### Preparación. 
+
+<a data-flickr-embed="true"
+href="https://www.flickr.com/photos/atalaya/27101701217/in/dateposted/"
+title="Preparando el primer lote de manzanachos"><img
+src="https://farm1.staticflickr.com/823/27101701217_b706e888a1.jpg"
+width="500" height="375" alt="Preparando el primer lote de
+manzanachos"></a><script async
+src="//embedr.flickr.com/assets/client-code.js"
+charset="utf-8"></script>
 
 **Nota**: no prepares esta receta recién comido. Vas a tener que
 comer, y posiblemente bastante.
