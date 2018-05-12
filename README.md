@@ -48,7 +48,7 @@ le añadí unos pequeños cambios.
 ### Ingredientes:
 
 * Una manzana.
-* Dos o tres cucharadas de azúcar moreno.
+* Dos o tres cucharadas de panela o azúcar moreno.
 * Una cucharadita pequeña de canela.
 
 ### Preparación. 
@@ -78,13 +78,19 @@ comer, y posiblemente bastante.
    rodajas sobre el papel con cuidado de que no se apilen. En una
    bandeja normal te cabrá, aproximadamente, media manzana. 
    
-3. Echa el azúcar moreno y la canela en un cuenco y dilúyelo con un
+3. Echa la panela o el azúcar moreno y la canela en un cuenco y dilúyelo con un
    poco de agua, no demasiado, ni siquiera es necesario que lo
-   cubra. Remueve para que se reparta de forma uniforme.
+   cubra. Remueve para que se reparta de forma uniforme. Yo
+   usé
+   [panela](https://www.eldiario.es/consumoclaro/cuidarse/Panela-alternativa-saludable-azucar-refinado_0_761524683.html),
+   con un sabor muy suave y más fina que el azúcar moreno, pero
+   supongo que cualquier tipo de azúcar servirá más o menos igual,
+   aunque mejor *de color* porque los manzanachos acaban
+   adquiriéndolo. 
    
 4. Con una brocha de cocinar (o como se llame), *pinta* las rodajas de
    manzana ya colocadas, de forma que todas queden untadas
-   uniformemente con el azúcar.
+   uniformemente con la pasta.
    
 5. Mételo en el horno, precalentado o no (va a dar igual), sin la
    encimera, posición "pollo" (no sé cocinar, pero eso es lo que había
